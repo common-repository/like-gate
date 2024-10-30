@@ -1,0 +1,10 @@
+.app_table{width:30%}
+.app_table td{padding:10px}
+.app_hide{display:none}
+.webweb_wp_plugin input.ww_text{min-width:220px}
+.form-table textarea{width:550px}
+.success,.app_success{color:green}
+.app_newsletter_box,.app_message_box{_margin:5px 5px 15px;background-color:#ffc;border:2px dashed #777;margin:0;padding:5px}
+.webweb_wp_plugin_like_gate_admin .main_content{float:left;width:75%;vertical-align:top;margin:0;padding:0}
+.webweb_wp_plugin_like_gate_admin .admin_sidebar{float:right;width:20%;margin:0;padding:0}
+.app_error,.app_delete_button,.asterisk,.app_asterisk{color:red}
